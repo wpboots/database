@@ -1,0 +1,16 @@
+{
+    "name": "boots/database",
+    "type": "boots-extension",
+    "description": "Basic options and post meta get and update utilities",
+    "keywords": ["boots","wordpress","database","utility"],
+    "homepage": "http://wpboots.com/extensions/database",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "M. Kamal Khan",
+            "email": "shout@bhittani.com",
+            "homepage": "http://bhittani.com",
+            "role": "Developer"
+        }
+    ]
+}
